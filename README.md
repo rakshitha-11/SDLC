@@ -18,9 +18,13 @@ This project is a generalized simulation of my internship work at DRDO-ADE, wher
 
 ## 📂 Project Structure
 SDLC/
+
 ├── diagrams/ # Architecture and system design
+
 ├── src/ # Simulation logic (threshold computation)
+
 ├── test/ # Test cases, coverage notes
+
 ├── docs/ # SDLC documentation
 
 ## 🧪 Simulation Overview
