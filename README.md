@@ -1,6 +1,6 @@
 # SDLC – PTPS MisTrack Threshold Simulation
 
-This project is a generalized simulation of my internship work at DRDO-ADE, where I contributed to the **development and testing of PTPS MisTrack Threshold logic** used in real-time embedded systems. This repository showcases the Software Development Life Cycle (SDLC) stages followed during that project, simulated using open tools and dummy data.
+This project is a generalized simulation of my internship work at DRDO-ADE, where I contributed to the **development and testing of PTPS MisTrack Threshold logic** used in real-time embedded systems. This repository showcases the Software Development Life Cycle (SDLC) stages followed during that project, simulated using open tools and data.
 
 ## ✨ Key Contributions
 - Implemented threshold logic for PTPS signal analysis and fault detection in embedded systems.
